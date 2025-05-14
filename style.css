@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  gap: 0.5rem;
+}
+
+header {
+  grid-area: auto;
+  margin-top: 10px;
+  border-radius: 10%;
+  padding: 1rem;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
