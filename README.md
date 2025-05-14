@@ -29,9 +29,9 @@ Code reviews can be found in the code-review.md file
 # First level heading
 ## Second level heading
 ### Third level heading
-*italic text*
-**BOLD TEXT**
-~~Strikethrough text~~
+*italic text*<br>
+**BOLD TEXT**<br>
+~~Strikethrough text~~<br>
 `<p>Wow code</p>` back tick found next to 1 key
 ```
 <p>Block 1</p>
