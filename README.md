@@ -38,7 +38,7 @@ Code reviews can be found in the code-review.md file
 <p>Block 2</p>
 ```
 
-Title
-Overview - what you did in the project
-Features - basically showing off what you used
+Title<br>
+Overview - what you did in the project<br>
+Features - basically showing off what you used<br>
 Updates/Version History - a log of your project changes and trajectory
