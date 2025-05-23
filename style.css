@@ -15,7 +15,7 @@ header {
   padding: 32px;
   background-color: aquamarine;
   color: #fff;
-  text-shadow: -2px 2px 4px #4A728E;
+  text-shadow: 2px 2px 4px #666666;
   border-bottom: 4px solid #8FC3BD
 }
 
@@ -42,7 +42,7 @@ header {
   height: 350px;
   object-fit: cover;
   border-radius: 10px;
-  box-shadow: 2px 2px 4px #8FC3BD;
+  box-shadow: 5px 5px 10px #bebebe;
   /* position: absolute; */
 }
 
